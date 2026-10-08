@@ -1,0 +1,25 @@
+userName: lakshmikrishnasi_fQp72T
+accessKey: n76xHtFRk1Vg7zf1Yxaa
+browserstackLocal: true
+acceptInsecureCerts: true
+platforms:
+  - os: OS X
+    osVersion: Sonoma
+    browserName: Safari
+    browserVersion: 17.3
+  - os: Windows
+    osVersion: 11
+    browserName: Chrome
+    browserVersion: latest
+  - os: Windows
+    osVersion: 11
+    browserName: Edge
+    browserVersion: latest
+  - os: Windows
+    osVersion: 11
+    browserName: Firefox
+    browserVersion: latest
+networkLogs : true
+buildName: Data Extraction TestCases E2E - August Replica Regression 2024
+buildIdentifier: ${DATE_TIME}
+projectName: LoanLogics IoD

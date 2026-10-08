@@ -1,0 +1,2 @@
+TestCaseNumber,TestCaseName,username,password,tenantType,usrdetails,adtDes,tciDes,tntDes,disnDes,adnUsrDes,mailDes,comDes
+C922067,Validation of child tenant creation,anandhan,P@ssw0rd,parent,"a,a,a,a",Add New Tenant,Tenant/Company Information.,Tenant Id,Display Name,Admin Username,Admin User Email,.ideaondemand.com

@@ -1,0 +1,12 @@
+TestCaseNumber,username,password,tenantType,ErrorMessage,settingPage,usersPage,theme,notification,createNew,settingsOpts,usrOpts,TestCaseName
+C921122,whitespace,P@ssw0rd,std,The username you entered cannot be empty or contain only spaces,,,,,,,,whitespace in username & valid password
+C921124,anandhan,whitespace,std,The password you entered cannot be empty or contain only spaces,,,,,,,,whitespace in password & valid username
+C921125,,P@ssw0rd,std,Please fill out this field.,,,,,,,,username empty & valid password
+C921126,anandhan,,std,Please fill out this field.,,,,,,,,password empty & valid username
+C921127,anandsa,P@ssw0rd,std,Incorrect username or password.,,,,,,,,invalid username & valid password
+C921128,anandhan,P@ssword,std,Incorrect username or password.,,,,,,,,valid username & invalid password
+C921129,anandsa,P@ssword,std,Incorrect username or password.,,,,,,,,invalid user & invalid password
+C921130,anandhan,P@ssw0rd,std,,TRUE,TRUE,TRUE,TRUE,TRUE,"Audit Trail,Confidence Score,Data Extraction,Notification Webhooks,Stacking Orders,Taxonomy","Doc Indexing,Data Extraction,Export Loan,IOD Management,User Management,System Administration,Purge Loan,Operate only via the Iframe,Automated Rules,Income calculation",vrfy std tenant user roles and settings option
+C921131,anandhan,P@ssw0rd,admin,,TRUE,TRUE,TRUE,TRUE,TRUE,"Audit Trail,Confidence Score,Data Extraction,Notification Webhooks,Rate Limits,Stacking Orders,Taxonomy","Doc Indexing,Data Extraction,Export Loan,IOD Management,User Management,System Administration,Purge Loan,Operate only via the Iframe,Automated Rules,Income calculation,Platform Administration,Tenant Approver,Support user",vrfy admin user roles and settings option
+C921132,anandhan,P@ssw0rd,parent,,TRUE,TRUE,TRUE,TRUE,TRUE,"Audit Trail,Confidence Score,Data Extraction,Notification Webhooks,Stacking Orders,Taxonomy,Tenants","Doc Indexing,Data Extraction,Export Loan,IOD Management,User Management,System Administration,Purge Loan,Operate only via the Iframe,Automated Rules,Income calculation,Tenant Manager",vrfy parent user roles and settings option
+C921133,anandhan,P@ssw0rd,child,,FALSE,TRUE,TRUE,TRUE,TRUE,,"Doc Indexing,Data Extraction,Export Loan,IOD Management,System Operator,Operate only via the Iframe,Automated Rules,Income calculation",vrfy child user roles and settings option

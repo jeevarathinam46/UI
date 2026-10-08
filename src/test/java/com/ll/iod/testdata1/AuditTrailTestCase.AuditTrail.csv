@@ -1,0 +1,4 @@
+TestCaseNumber,TestCaseName,username,password,tenantType,adtTrlHdr,adtTrlRfr,txtBox,negativeScn,uli,errMsg,pdf
+C922060,validating audit trail by providing a valid ULI ,anandhan,P@ssw0rd,std,Audit Trail,Reference #,Enter Reference Number,FALSE,,Mandatory field,BankStatements
+C922061,  validating audit trail text box by entering a special character,anandhan,P@ssw0rd,std,Audit Trail,Reference #,Enter Reference Number,TRUE,@,"Invalid character, please use the following: a-z, A-Z, 0-9 or single - _ between words",
+C922062,validating audit trail by providing a Invalid ULI ,anandhan,P@ssw0rd,std,Audit Trail,Reference #,Enter Reference Number,TRUE,,No audit events were found for the specified reference,

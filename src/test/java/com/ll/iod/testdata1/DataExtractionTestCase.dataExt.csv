@@ -1,0 +1,3 @@
+TestCaseNumber,TestCaseName,username,password,tenantType,pdfName,autoDE,lnSts,diSts,deSts,diExp,deExp
+C922058,validation of Auto DE status OFF,anandhan,P@ssw0rd,std,BankStatements,off,Pending,Pending,Not Started,0,0
+C922059,validation of Auto DE status ON,anandhan,P@ssw0rd,std,BankStatements,on,Pending,Pending,Pending,0,0

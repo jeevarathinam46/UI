@@ -1,0 +1,4 @@
+TestCaseNumber,TestCaseName,username,password,tenantType,tntRegtURL,strtAdd,cty,zpCd,state,phnNo,cmmnts,fstNm,lstNm,phnNum,email,action
+C922011,Tenant Approval setting page validation,anandhan,P@ssw0rd,admin,TntRegt,"123 Main Street, Anytown, USA",Los Angeles,12345,AL,421-797-8643,Please Approve,Anand,S,451-452-8964,anandhan.s@loanlogics.com,deny
+C921822,verifying mandatory fields messages,,,admin,TntRegt,,,,,,,,,,,
+C921823,filing all fields and verifying submit option enabled ,anandhan,P@ssw0rd,admin,TntRegt,"123 Main Street, Anytown, USA",Los Angeles,12345,AL,421-797-8643,Please Approve,Anand,S,451-452-8964,anandhan.s@loanlogics.com,approve

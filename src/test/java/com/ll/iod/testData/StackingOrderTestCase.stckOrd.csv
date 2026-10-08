@@ -1,0 +1,2 @@
+TestCaseNumber,username,password,tenantType,stkOrdDsc,pdfType,docTypes,edtPdfType
+,anandhan,P@ssw0rd,std,"Create the order you want your document types to appear in your consolidated PDF. Edit, copy and delete stacking orders by hovering on the stacking order card. Click on the stacking order card to activate (activated when blue).",individual,"1040,bank statements",bookmarked
